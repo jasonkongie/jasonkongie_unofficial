@@ -1,14 +1,40 @@
 {
-  "name": "my-app",
+  "name": "jasonkongie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
+    "@chakra-ui/react": "^1.8.3",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.17",
+    "@react-pdf/renderer": "^3.0.1",
+    "@react-spring/parallax": "^9.5.5",
+    "@stahl.luke/react-reveal": "^1.2.3",
+    "@syncfusion/ej2-react-maps": "^20.4.40",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "bootstrap": "^5.2.3",
+    "buffer": "^6.0.3",
+    "fs": "^0.0.1-security",
+    "os-browserify": "^0.3.0",
+    "path": "^0.12.7",
+    "path-browserify": "^1.0.1",
+    "querystring": "^0.2.1",
+    "react": "^17.0.2",
+    "react-awesome-reveal": "^4.1.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^17.0.2",
+    "react-parallax": "^3.5.1",
+    "react-pdf": "^6.2.0",
+    "react-router-dom": "^6.4.5",
     "react-scripts": "5.0.1",
+    "react-scroll-parallax": "^3.3.2",
+    "react-social-media-embed": "^2.2.9",
+    "react-twitter-embed": "^4.0.4",
+    "react-type-animation": "^2.1.2",
+    "styled-components": "^5.3.6",
+    "svgmap": "^2.10.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +60,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
   }
 }
