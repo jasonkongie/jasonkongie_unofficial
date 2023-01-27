@@ -11,29 +11,11 @@ import transcript from "./pdf/transcript.pdf";
 import LOR from "./pdf/LOR.pdf";
 import { Document, Page } from 'react-pdf/dist/esm/entry.webpack5';
 
-import { TypeAnimation } from 'react-type-animation';
-
 const Typing = () => {
   return (
-    <TypeAnimation
-      sequence={[
-        'Dear Jesus,', // Types 'One'
-        1000, // Waits 1s
-        'Please find a car for us.', // Deletes 'One' and types 'Two'
-        2000, // Waits 2s
-        'Amen', // Types 'Three' without deleting 'Two'
-        () => {
-          console.log('Done typing!'); // Place optional callbacks anywhere in the array
-        }
-      ]}
-      wrapper="div"
-      cursor={true}
-      repeat={Infinity}
-          style={{ fontSize: '5em' }}
-          speed={15}
-          deletionSpeed={30}
-          
-    />
+      <h1>
+          Hello world
+    </h1>
   );
 };
 

@@ -2,7 +2,7 @@
   "name": "jasonkongie",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jasonkongie.github.io/",
+  "homepage": "https://jasonkongie.github.io/jasonkongie",
   "dependencies": {
     "@chakra-ui/react": "^1.8.3",
     "@emotion/react": "^11.10.5",
@@ -33,7 +33,6 @@
     "react-scroll-parallax": "^3.3.2",
     "react-social-media-embed": "^2.2.9",
     "react-twitter-embed": "^4.0.4",
-    "react-type-animation": "^2.1.2",
     "styled-components": "^5.3.6",
     "svgmap": "^2.10.1",
     "web-vitals": "^2.1.4"
