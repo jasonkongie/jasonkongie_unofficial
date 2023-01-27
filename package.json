@@ -2,7 +2,7 @@
   "name": "jasonkongie",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jasonkongie.github.io/jasonkongie",
+  "homepage": "https://jasonkongie.github.io/jasonkongie/",
   "dependencies": {
     "@chakra-ui/react": "^1.8.3",
     "@emotion/react": "^11.10.5",
